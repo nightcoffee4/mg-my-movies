@@ -5,9 +5,9 @@
 
 ## How to start?
 
-### `yarn start`
+### `> yarn start`
 
-### `$ npx json-server --watch src/api/movies.json --port 3001`
+### `> npx json-server --watch src/api/movies.json --port 3001`
 
 
 ![image](./my-movies.png)
