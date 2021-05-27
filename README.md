@@ -5,4 +5,4 @@
 
 ### `$ npx json-server --watch src/api/movies.json --port 3001`
 
-![plot](./my-movies.png)
+![image](./my-movies.png)
